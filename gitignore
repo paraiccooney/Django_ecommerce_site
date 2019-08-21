@@ -1,0 +1,4 @@
+*.sqlite3
+__psycache__
+.~c9*
+env.py
